@@ -10,7 +10,7 @@ BUILD_PATH=".build_ios/${BUILD_MODE}"
 PRODUCT_PATH="${BUILD_PATH}/${PRODUCT_DIR}"
 PRODUCT_APP_PATH="${PRODUCT_PATH}/Flutter"
 # git repository path
-PRODUCT_GIT_DIR="/FlutterProduct"
+PRODUCT_GIT_DIR="/product/"
 
 usage() {
     echo
